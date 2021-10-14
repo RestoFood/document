@@ -1,0 +1,9 @@
+1. acc_number is sequence?
+
+2. payt_acc_id itu apanya dari account payment
+
+3. saldo integer/numeric
+
+4. kewenangan admin buyer seller
+
+5. line item cart

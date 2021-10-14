@@ -1,0 +1,3 @@
+Role : 1. DB : Satrio
+       2. Backend: Andri
+       3. FrontEnd: Yogi

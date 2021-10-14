@@ -1,0 +1,26 @@
+
+Oktober 14
+1. Buat akun baru dan invite (done)
+2. Nama App (done)
+3. Menentukan uratan pembuatan DB
+
+
+1. urutan
+category
+menu type
+users
+address
+resto shop
+resto menu
+resto addon
+order_menu
+carts
+cart_line_items
+
+---payment
+users
+bank
+account payment
+back_account
+payment_transcation
+
